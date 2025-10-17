@@ -14,7 +14,7 @@ Explored Netflix data to identify trends in content type, genre, and release pat
 
 
 ## 📁 Files
-- `Netflix_EDA(4).ipynb`: Full analysis notebook
+- `Netfilx_Case_Study (4).ipynb`: Full analysis notebook
 
 ## 🔗 Links
 - [View Colab Notebook] (https://colab.research.google.com/drive/1l_Gd7mpwUogicyORSuPLBF53U1Gh70y3?usp=sharing)
